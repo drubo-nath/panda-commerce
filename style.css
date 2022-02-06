@@ -22,3 +22,39 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1,.cat2,.cat3{
+    padding: 15px 30px;
+    color: white;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: #FF136F;
+}
+.cat3{
+    background-color: rgb(50, 50, 204);
+}
+.catergories img{
+    width: 120px;
+}
+.price2{
+    font-weight: 800;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightslategray;
+    border-radius: 20px;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe p{
+    color: gray;
+}
